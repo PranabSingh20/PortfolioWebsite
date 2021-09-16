@@ -58,6 +58,21 @@ p {
     font-weight: 300;
     color:white;
 }
+  
+.sticky1 {
+    background-color: #1c1d25;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky2 {
+    background-color: transparent;
+    position: fixed;
+    top: 40%;
+    margin-left: 93%;
+    width: 100%;
+}
 
 .subtext {
     font-size: 15px;
@@ -100,7 +115,7 @@ p {
 }
 
 .socials {
-    padding-bottom: 250px;
+    margin-bottom: 250px;
 }
 
 .logo {
@@ -108,7 +123,7 @@ p {
     margin: 30px;
 }
 .social {
-    margin: 20px;
+    margin: 40px;
 }
 
 .second-section {
